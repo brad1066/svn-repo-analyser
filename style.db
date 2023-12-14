@@ -1,0 +1,7 @@
+
+*font: "Segoe UI" 12
+
+*Button*background: lightblue
+*Button*foreground: white
+*Button*relief: flat
+*Button*font: "Segoe UI" 14 bold
